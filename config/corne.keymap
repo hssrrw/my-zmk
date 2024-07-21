@@ -35,7 +35,7 @@
 &trans  &kp Z        &kp X        &kp C        &kp D        &kp V            &kp K        &kp H        &kp COMMA    &kp DOT      &kp QMARK      &trans
 //      ╰────────────┴────────────┼────────────┼────────────┼────────────┤   ├────────────┼────────────┼────────────┼────────────┴────────────╯
 //                                │ Esc        │ Lwr Space  │ Tab        │   │ Enter      │ Rse Bksp   │ Del        │
-                                  &kp ESC      &lp 1 SPACE  &kp TAB          &kp RET      &lp 2 BSPC   &kp DEL
+                                  &kp ESC      &lt 1 SPACE  &kp TAB          &kp RET      &lt 2 BSPC   &kp DEL
 //                                ╰────────────┴────────────┴────────────╯   ╰────────────┴────────────┴────────────╯
             >;
         };
