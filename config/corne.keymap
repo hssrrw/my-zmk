@@ -29,7 +29,7 @@
 &trans  &kp Q        &kp W        &kp F        &kp P        &kp B            &kp J        &kp L        &kp U        &kp Y        &kp EXCL       &trans
 //      ├────────────┼────────────┼────────────┼────────────┼────────────┤   ├────────────┼────────────┼────────────┼────────────┼────────────┤
 //      │ Ctrl A     │ Alt R      │ Shift S    │ GUI T      │ G          │   │ M          │ GUI N      │ Shift E    │ Alt I      │ Ctrl O     │
-&trans  &mt LCTRL A  &mt LALT R   &mt LSHIFT S &mt LGUI T   &kp G             kp M        &mt LGUI N   &mt LSHIFT E &mt LALT I   &mt LCTRL O    &trans
+&trans  &mt LCTRL A  &mt LALT R   &mt LSHIFT S &mt LGUI T   &kp G            &kp M        &mt RGUI N   &mt RSHIFT E &mt RALT I   &mt LCTRL O    &trans
 //      ├────────────┼────────────┼────────────┼────────────┼────────────┤   ├────────────┼────────────┼────────────┼────────────┼────────────┤
 //      │ Z          │ X          │ C          │ D          │ V          │   │ K          │ H          │ ,          │ .          │ ?          │
 &trans  &kp Z        &kp X        &kp C        &kp D        &kp V            &kp K        &kp H        &kp COMMA    &kp DOT      &kp QMARK      &trans
@@ -72,7 +72,7 @@
 &trans  &kp LT       &kp LBKT     &kp LPAR     &kp LBRC     &kp RBRC         &kp PRCNT    &kp MINUS    &kp SEMI     &kp FSLH     &kp AT         &trans
 //      ├────────────┼────────────┼────────────┼────────────┼────────────┤   ├────────────┼────────────┼────────────┼────────────┼────────────┤
 //      │ `          │ "          │ &          │ $          │ ~          │   │ \          │ |          │ *          │ +          │ #          │
-&trans  &kp GRAVE    &kp DQT      &kp AMPS     &kp DLLR     &kp TILDE        &kp BSLH     &kp PIPE     &kp ASTRK    &kp PLUS     &kp HASH       &trans
+&trans  &kp GRAVE    &kp DQT      &kp AMPS     &kp DLLR     &kp TILDE        &kp BSLH     &kp PIPE     &kp STAR     &kp PLUS     &kp HASH       &trans
 //      ╰────────────┴────────────┼────────────┼────────────┼────────────┤   ├────────────┼────────────┼────────────┼────────────┴────────────╯
 //                                │ Esc        │ Space      │ Tab        │   │            │            │            │
                                   &kp ESC      &kp SPACE    &kp TAB          &trans       &trans       &trans
